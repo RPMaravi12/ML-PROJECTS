@@ -1,0 +1,14 @@
+{
+  "Brand": "ASUS",
+  "Processor_Brand": "Intel",
+  "Processor_Series": "Core i5",
+  "Processor_Generation": "10th Gen",
+  "Ram_GB": 8,
+  "Ram_Type": "DDR4",
+  "Storage_Type": "SSD",
+  "Storage_GB_clean": 512,
+  "Stars": 4.3,
+  "Num_Ratings": 5000,
+  "Num_Reviews": 500,
+  "discount": 10.0
+}
